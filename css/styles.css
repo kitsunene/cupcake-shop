@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family: serif;
+  letter-spacing: 3px;
+  color: #0099cc;
+}
+h2 {
+  text-align: center;
+  font-style: oblique;
+  line-height: 0px;
+  color: #ff6699;
+}
+p.intro {
+line-height: 80px;
+}
+p.flashy {
+  font-size: 25px;
+  font-style: italic;
+  color: #cc0066;
+}
+p.email {
+  text-align: center;
+  font-family: serif;
+}
