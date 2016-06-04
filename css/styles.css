@@ -10,6 +10,12 @@ h2 {
   line-height: 0px;
   color: #ff6699;
 }
+.my-class {
+  margin: 12px;
+  border: 2px solid #33cc33;
+  padding: 4px;
+  background-color: #ffff99;
+}
 p.intro {
 line-height: 80px;
 }
@@ -25,7 +31,8 @@ p.email {
 .sidebar {
   float: right;
   width: 20%;
-  background-color: #ffff66
+  background-color: #cc6699;
+  border: 2px solid #0099cc;
 }
 .italics {
   font-style: italic;
