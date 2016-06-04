@@ -22,3 +22,11 @@ p.email {
   text-align: center;
   font-family: serif;
 }
+.sidebar {
+  float: right;
+  width: 20%;
+  background-color: #ffff66
+}
+.italics {
+  font-style: italic;
+}
